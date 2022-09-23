@@ -127,10 +127,10 @@ header {
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: #5f5d60;
+  color: #272627;
 }
 
-.heading h2 {
+.heading h1 {
   font-weight: normal;
 }
 

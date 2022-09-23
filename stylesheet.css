@@ -120,14 +120,14 @@ header {
   top: 65px;
   left: 0;
   bottom: 0;
-  width: 100px;
+  width: 150px;
   overflow: auto;
   background: rgba(34,49,52,0.9);
 }
 
 nav ul {
   list-style-type: none;
-  margin: 10px;
+  margin: 10px 10px 10px 20px;
   padding: 10px;
   line-height: 200%;
 }
@@ -142,7 +142,7 @@ nav ul a {
 main {
   position: fixed;
   top: 65px;
-  left: 100px;
+  left: 150px;
   right: 0;
   bottom: 0;
   overflow: auto;

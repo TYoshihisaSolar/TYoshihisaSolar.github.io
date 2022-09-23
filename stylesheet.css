@@ -177,7 +177,7 @@ main {
   font-weight: bold;
   text-align: left;
   color: black;
-  padding: 0px 20px 0px 10px;
+  padding: 0px 20px -5px 10px;
 }
 
 .reserch-interests h4 {

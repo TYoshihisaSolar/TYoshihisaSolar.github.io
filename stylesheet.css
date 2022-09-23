@@ -139,6 +139,16 @@ nav ul a {
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
+main {
+  position: fixed;
+  top: 65px;
+  left: 150px;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  background: white;
+}
+
 .innertube {
   margin: 15px;
 }

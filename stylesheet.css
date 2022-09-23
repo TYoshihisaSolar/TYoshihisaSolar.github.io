@@ -159,7 +159,38 @@ main {
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
-  text-align: center;
+}
+
+.reserch-interests {
+  margin: 15px;
+}
+
+.reserch-interests h2 {
+  font-weight: normal;
+  text-align: left;
+  color: black;
+  padding: 10px 20px 10px 10px;
+}
+
+.reserch-interests h3 {
+  font-weight: normal;
+  text-align: left;
+  color: #292629;
+  padding: 5px 20px 20px 15px;
+}
+
+.lesson-wrapper h2 {
+  font-weight: normal;
+  text-align: left;
+  color: black;
+  padding: 10px 20px 10px 10px;
+}
+
+.lesson-wrapper h3 {
+  font-weight: normal;
+  text-align: left;
+  color: #292629;
+  padding: 5px 20px 20px 15px;
 }
 
 .heading {
@@ -170,6 +201,8 @@ main {
 
 .heading h1 {
   font-weight: normal;
+  text-align: left;
+  border-bottom: 1px solid #c4c2be;
 }
 
 .lesson {

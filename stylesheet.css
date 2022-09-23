@@ -170,21 +170,21 @@ main {
   font-weight: normal;
   text-align: left;
   color: black;
-  padding: -50px 20px 1px 30px;
+  padding: 0px 20px 0px 30px;
 }
 
 .reserch-interests h3 {
   font-weight: bold;
   text-align: left;
   color: black;
-  padding: 1px 20px 1px 10px;
+  padding: 0px 20px 0px 10px;
 }
 
 .reserch-interests h4 {
   font-weight: bold;
   text-align: left;
   color: black;
-  padding: 1px 20px 1px 20px;
+  padding: 0px 20px 0px 20px;
 }
 
 .heading {
@@ -204,16 +204,7 @@ main {
   width: 10%;
 }
 
-.lesson-icon {
-  position: relative;
-}
 
-.lesson-icon p {
-  position: absolute;
-  top: 37%;
-  width: 100%;
-  color: white;
-}
 
 .text-contents {
   width: 80%;

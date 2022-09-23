@@ -263,6 +263,14 @@ footer {
   clear: left;
 }
 
+.article-tags {
+  height: 440px;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #ffffff;
+}
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;

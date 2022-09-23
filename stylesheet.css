@@ -170,14 +170,21 @@ main {
   font-weight: normal;
   text-align: left;
   color: black;
-  padding: 1px 20px 1px 25px;
+  padding: 1px 20px 1px 30px;
+}
+
+.reserch-interests h3 {
+  font-weight: bold;
+  text-align: left;
+  color: black;
+  padding: 1px 20px 1px 10px;
 }
 
 .reserch-interests h4 {
   font-weight: bold;
   text-align: left;
   color: black;
-  padding: 1px 20px 1px 10px;
+  padding: 1px 20px 1px 20px;
 }
 
 .heading {

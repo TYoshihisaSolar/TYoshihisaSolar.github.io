@@ -169,14 +169,14 @@ main {
   font-weight: normal;
   text-align: left;
   color: black;
-  padding: 10px 20px 10px 10px;
+  padding: 1px 20px 1px 10px;
 }
 
 .reserch-interests h3 {
   font-weight: normal;
   text-align: left;
   color: #292629;
-  padding: 5px 20px 20px 15px;
+  padding: 1px 20px 1px 15px;
 }
 
 .lesson-wrapper h2 {

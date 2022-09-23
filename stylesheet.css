@@ -13,7 +13,7 @@ a {
 
 .container {
   width: 100%;
-  padding: 0 15px;
+  padding: 0 5px;
   margin: 0 auto;
 }
 
@@ -171,7 +171,6 @@ main {
   text-align: left;
   color: black;
   padding: 0px 20px 0px 30px;
-  margin: -10px 10px 0px 2px;
 }
 
 .reserch-interests h3 {

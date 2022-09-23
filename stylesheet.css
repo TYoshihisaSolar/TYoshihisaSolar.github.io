@@ -180,6 +180,7 @@ main {
 }
 
 .lesson-wrapper h2 {
+  font-size: 80%;
   font-weight: normal;
   text-align: left;
   color: black;
@@ -187,6 +188,7 @@ main {
 }
 
 .lesson-wrapper h3 {
+  font-size: 80%;
   font-weight: normal;
   text-align: left;
   color: #292629;
@@ -195,7 +197,7 @@ main {
 
 .heading {
   padding-top: 40px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
   color: #272627;
 }
 

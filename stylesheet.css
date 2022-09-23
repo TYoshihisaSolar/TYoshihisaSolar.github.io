@@ -264,7 +264,15 @@ footer {
 }
 
 .article-tags {
-  height: 440px;
+  height: 840px;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #ffffff;
+}
+
+.paperchecklist-tags {
+  height: 840px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;

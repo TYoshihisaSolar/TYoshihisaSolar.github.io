@@ -154,7 +154,7 @@ main {
 }
 
 .lesson-wrapper {
-  height: 580px;
+  height: 480px;
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -177,20 +177,6 @@ main {
   text-align: left;
   color: #292629;
   padding: 1px 20px 1px 15px;
-}
-
-.lesson-wrapper h2 {
-  font-weight: normal;
-  text-align: left;
-  color: black;
-  padding: 10px 20px 10px 10px;
-}
-
-.lesson-wrapper h3 {
-  font-weight: normal;
-  text-align: left;
-  color: #292629;
-  padding: 5px 20px 20px 15px;
 }
 
 .heading {

@@ -142,7 +142,7 @@ nav ul a {
 main {
   position: fixed;
   top: 65px;
-  left: 150px;
+  left: 100px;
   right: 0;
   bottom: 0;
   overflow: auto;

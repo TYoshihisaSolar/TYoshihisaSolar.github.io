@@ -120,16 +120,16 @@ header {
   top: 65px;
   left: 0;
   bottom: 0;
-  width: 150px;
+  width: 100px;
   overflow: auto;
   background: rgba(34,49,52,0.9);
 }
 
 nav ul {
   list-style-type: none;
-  margin: 5px;
+  margin: 10px;
   padding: 10px;
-  line-height: 150%;
+  line-height: 200%;
 }
 
 nav ul a {

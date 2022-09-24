@@ -280,6 +280,28 @@ footer {
   background-color: #ffffff;
 }
 
+.links-tags {
+  height: 840px;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #ffffff;
+}
+
+.links-tags h3 {
+  border-bottom: 1px solid #c4c2be;
+  font-weight: bold;
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.links-subtags {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
 @media all and (max-width: 1000px) {
   .lesson {
     width: 50%;

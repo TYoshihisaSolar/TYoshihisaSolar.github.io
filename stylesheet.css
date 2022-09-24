@@ -288,18 +288,38 @@ footer {
   background-color: #ffffff;
 }
 
-.links-tags h3 {
-  border-bottom: 1px solid #c4c2be;
-  font-weight: bold;
-  padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
+.links-subtags {
+  padding-bottom: 1px;
+  padding-left: 3%;
 }
 
-.links-subtags {
-  padding-bottom: 80px;
+.links-subtags h3 {
+  font-weight: bold;
+  padding-bottom: 0px;
+  padding-left: 0%;
+}
+
+.links-subtags ul {
+  font-weight: normal;
+  padding-bottom: 0px;
+  padding-left: 3%;
+}
+
+.links-subsubtags {
+  padding-bottom: 0px;
   padding-left: 5%;
-  padding-right: 5%;
+}
+
+.links-subsubtags h4 {
+  font-weight: bold;
+  padding-bottom: 0px;
+  padding-left: 0%;
+}
+
+.links-subsubtags ul {
+  font-weight: normal;
+  padding-bottom: 0px;
+  padding-left: 3%;
 }
 
 @media all and (max-width: 1000px) {
